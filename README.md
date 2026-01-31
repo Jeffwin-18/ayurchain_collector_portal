@@ -1,6 +1,13 @@
-# React
+## Blockchain-Based Botanical Traceability System for Ayurvedic Herbs
+# Overview
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+This project implements a blockchain-powered traceability platform for Ayurvedic herbs, ensuring transparency, authenticity, and trust across the entire supply chain. By combining geo-tagging, immutable records, lab certifications, and QR-based consumer verification, the system enables end-to-end tracking from the point of collection to the final consumer.
+
+## Innovation
+
+Trust is built through cryptographic proof, not claims
+Consumers directly verify authenticity without intermediaries
+Eliminates data tampering and counterfeit risks in Ayurveda
 
 ## 🚀 Features
 
