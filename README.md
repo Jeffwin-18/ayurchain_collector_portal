@@ -106,6 +106,7 @@ npm run build
 ```
 
 ## 🙏 Acknowledgments
+Credits:
 
 - Built with [Rocket.new]
 - Powered by React and Vite
